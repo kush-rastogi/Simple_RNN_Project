@@ -1,4 +1,6 @@
 # 🧠 Simple RNN Project using NLP
+# Project Recording: 
+https://drive.google.com/file/d/1hPO2VsIgxKAr-oF5H3HGj74y2H_I1mPa/view?usp=drive_link
 A deep learning project demonstrating the implementation of a Simple Recurrent Neural Network (RNN) for natural language processing tasks such as text classification or sentiment analysis.
 
 # 📌 Objective
